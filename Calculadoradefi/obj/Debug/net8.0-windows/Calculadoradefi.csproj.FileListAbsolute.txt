@@ -1,0 +1,16 @@
+C:\Users\Frank\source\repos\Calculadoradefi\Calculadoradefi\bin\Debug\net8.0-windows\Calculadoradefi.exe
+C:\Users\Frank\source\repos\Calculadoradefi\Calculadoradefi\bin\Debug\net8.0-windows\Calculadoradefi.deps.json
+C:\Users\Frank\source\repos\Calculadoradefi\Calculadoradefi\bin\Debug\net8.0-windows\Calculadoradefi.runtimeconfig.json
+C:\Users\Frank\source\repos\Calculadoradefi\Calculadoradefi\bin\Debug\net8.0-windows\Calculadoradefi.dll
+C:\Users\Frank\source\repos\Calculadoradefi\Calculadoradefi\bin\Debug\net8.0-windows\Calculadoradefi.pdb
+C:\Users\Frank\source\repos\Calculadoradefi\Calculadoradefi\obj\Debug\net8.0-windows\Calculadoradefi.Form1.resources
+C:\Users\Frank\source\repos\Calculadoradefi\Calculadoradefi\obj\Debug\net8.0-windows\Calculadoradefi.csproj.GenerateResource.cache
+C:\Users\Frank\source\repos\Calculadoradefi\Calculadoradefi\obj\Debug\net8.0-windows\Calculadoradefi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\source\repos\Calculadoradefi\Calculadoradefi\obj\Debug\net8.0-windows\Calculadoradefi.AssemblyInfoInputs.cache
+C:\Users\Frank\source\repos\Calculadoradefi\Calculadoradefi\obj\Debug\net8.0-windows\Calculadoradefi.AssemblyInfo.cs
+C:\Users\Frank\source\repos\Calculadoradefi\Calculadoradefi\obj\Debug\net8.0-windows\Calculadoradefi.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\Calculadoradefi\Calculadoradefi\obj\Debug\net8.0-windows\Calculadoradefi.dll
+C:\Users\Frank\source\repos\Calculadoradefi\Calculadoradefi\obj\Debug\net8.0-windows\refint\Calculadoradefi.dll
+C:\Users\Frank\source\repos\Calculadoradefi\Calculadoradefi\obj\Debug\net8.0-windows\Calculadoradefi.pdb
+C:\Users\Frank\source\repos\Calculadoradefi\Calculadoradefi\obj\Debug\net8.0-windows\Calculadoradefi.genruntimeconfig.cache
+C:\Users\Frank\source\repos\Calculadoradefi\Calculadoradefi\obj\Debug\net8.0-windows\ref\Calculadoradefi.dll
