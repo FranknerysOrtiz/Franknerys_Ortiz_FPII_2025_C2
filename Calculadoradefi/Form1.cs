@@ -1,10 +1,13 @@
-﻿namespace Calculadoradefi
+﻿using System.Diagnostics.Eventing.Reader;
+
+namespace Calculadoradefi
 {
 
     public partial class Form1 : Form
     {
         double Numero1 = 0, Numero2 = 0;
         char Operador;
+        bool numeroElemento = false;
 
         public Form1()
         {
@@ -23,7 +26,7 @@
 
         private void buttonResult_Click(object sender, EventArgs e)
         {
-            Numero2 = Convert.ToDouble(txtResultado.Text);
+            numeroElemento = false;
 
             if (Operador == '+')
             {
@@ -88,10 +91,22 @@
         }
         private void buttonSigno_Click(object sender, EventArgs e)
         {
-            Numero1 = Convert.ToDouble(txtResultado.Text);
-            Numero1 *= -1;
-            txtResultado.Text = Numero1.ToString();
+            if (numeroElemento = false)
+            {
+                Numero1 = Convert.ToDouble(txtResultado.Text);
+                Numero1 *= -1;
+                txtResultado.Text = Numero1.ToString();
+            }
+            else
+            {
+                Numero2 = Convert.ToDouble(txtResultado.Text);
+                Numero2 *= -1;
+                txtResultado.Text = Numero2.ToString();
+            }
         }
+
+
+
         private void clickoperador(object sender, EventArgs e)
         {
             var boton = ((Button)sender);
@@ -118,6 +133,7 @@
             }
         }
 
-       
+
     }
 }
+
