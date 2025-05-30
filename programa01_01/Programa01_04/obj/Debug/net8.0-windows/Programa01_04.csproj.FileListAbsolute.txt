@@ -1,0 +1,17 @@
+C:\Users\Frank\source\repos\Franknerys_Ortiz_FPII_2025_C2\programa01_01\Programa01_04\bin\Debug\net8.0-windows\Programa01_04.exe
+C:\Users\Frank\source\repos\Franknerys_Ortiz_FPII_2025_C2\programa01_01\Programa01_04\bin\Debug\net8.0-windows\Programa01_04.deps.json
+C:\Users\Frank\source\repos\Franknerys_Ortiz_FPII_2025_C2\programa01_01\Programa01_04\bin\Debug\net8.0-windows\Programa01_04.runtimeconfig.json
+C:\Users\Frank\source\repos\Franknerys_Ortiz_FPII_2025_C2\programa01_01\Programa01_04\bin\Debug\net8.0-windows\Programa01_04.dll
+C:\Users\Frank\source\repos\Franknerys_Ortiz_FPII_2025_C2\programa01_01\Programa01_04\bin\Debug\net8.0-windows\Programa01_04.pdb
+C:\Users\Frank\source\repos\Franknerys_Ortiz_FPII_2025_C2\programa01_01\Programa01_04\obj\Debug\net8.0-windows\Programa01_04.Form1.resources
+C:\Users\Frank\source\repos\Franknerys_Ortiz_FPII_2025_C2\programa01_01\Programa01_04\obj\Debug\net8.0-windows\Programa01_04.csproj.GenerateResource.cache
+C:\Users\Frank\source\repos\Franknerys_Ortiz_FPII_2025_C2\programa01_01\Programa01_04\obj\Debug\net8.0-windows\Programa01_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank\source\repos\Franknerys_Ortiz_FPII_2025_C2\programa01_01\Programa01_04\obj\Debug\net8.0-windows\Programa01_04.AssemblyInfoInputs.cache
+C:\Users\Frank\source\repos\Franknerys_Ortiz_FPII_2025_C2\programa01_01\Programa01_04\obj\Debug\net8.0-windows\Programa01_04.AssemblyInfo.cs
+C:\Users\Frank\source\repos\Franknerys_Ortiz_FPII_2025_C2\programa01_01\Programa01_04\obj\Debug\net8.0-windows\Programa01_04.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\Franknerys_Ortiz_FPII_2025_C2\programa01_01\Programa01_04\obj\Debug\net8.0-windows\Programa01_04.sourcelink.json
+C:\Users\Frank\source\repos\Franknerys_Ortiz_FPII_2025_C2\programa01_01\Programa01_04\obj\Debug\net8.0-windows\Programa01_04.dll
+C:\Users\Frank\source\repos\Franknerys_Ortiz_FPII_2025_C2\programa01_01\Programa01_04\obj\Debug\net8.0-windows\refint\Programa01_04.dll
+C:\Users\Frank\source\repos\Franknerys_Ortiz_FPII_2025_C2\programa01_01\Programa01_04\obj\Debug\net8.0-windows\Programa01_04.pdb
+C:\Users\Frank\source\repos\Franknerys_Ortiz_FPII_2025_C2\programa01_01\Programa01_04\obj\Debug\net8.0-windows\Programa01_04.genruntimeconfig.cache
+C:\Users\Frank\source\repos\Franknerys_Ortiz_FPII_2025_C2\programa01_01\Programa01_04\obj\Debug\net8.0-windows\ref\Programa01_04.dll
