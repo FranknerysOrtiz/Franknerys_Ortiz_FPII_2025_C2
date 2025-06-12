@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Programa02_03")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Programa05_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+889acdb2eb60cff5936dc6e26f757eac734d12c7")]
-[assembly: System.Reflection.AssemblyProductAttribute("Programa02_03")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Programa02_03")]
+[assembly: System.Reflection.AssemblyProductAttribute("Programa05_01")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Programa05_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
