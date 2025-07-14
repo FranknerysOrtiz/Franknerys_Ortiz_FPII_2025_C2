@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Loteria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a9c1c2820cdcf6fc4d644d2ad6e4685e91ce1f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee379726fa5f42afe345fa536e7d9dd15ee966e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Loteria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Loteria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
