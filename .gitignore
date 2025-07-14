@@ -1,0 +1,23 @@
+# Carpeta del entorno de Visual Studio
+.vs/
+
+# Archivos binarios compilados
+bin/
+obj/
+
+# Archivos de usuario de Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuración de paquetes NuGet
+packages/
+
+# Carpetas de configuración local
+*.dbmdl
+*.vscode/
