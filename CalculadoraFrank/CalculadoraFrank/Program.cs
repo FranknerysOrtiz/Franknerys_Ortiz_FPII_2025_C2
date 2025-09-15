@@ -16,7 +16,7 @@
 
             string opcion = Console.ReadLine();
 
-            double numfrank = 0, numOrtiz = 0;
+            double num1 = 0, num2 = 0;
 
             if (opcion == "7")
             {
@@ -26,10 +26,10 @@
             else
             {
                 Console.Write("Ingrese el primer número: ");
-                numfrank = Convert.ToDouble(Console.ReadLine());
+                num1 = Convert.ToDouble(Console.ReadLine());
 
                 Console.Write("Ingrese el segundo número: ");
-                numOrtiz = Convert.ToDouble(Console.ReadLine());
+                num2 = Convert.ToDouble(Console.ReadLine());
             }
 
 
@@ -38,28 +38,28 @@
             switch (opcion)
             {
                 case "1":
-                    Console.WriteLine($"Resultado: {numfrank + numOrtiz}");
+                    Console.WriteLine($"Resultado: {num1 + num2}");
                     break;
                     case "2":
-                    Console.WriteLine($"Resultado: {numfrank - numOrtiz}");
+                    Console.WriteLine($"Resultado: {num1 - num2}");
                     break;
                     case "3":
-                    Console.WriteLine($"Resultado: {numfrank * numOrtiz}");
+                    Console.WriteLine($"Resultado: {num1 * num2}");
                     break;
                     case "4":
-                    if (numOrtiz != 0)
-                        Console.WriteLine($"Resultado: {numfrank / numOrtiz}");
+                    if (num2 != 0)
+                        Console.WriteLine($"Resultado: {num1 / num2}");
                     else
                         Console.WriteLine("Error: división por cero.");
                     break;
                     case "5":
-                    if (numfrank >= 0)
+                    if (num1 >= 0)
                         Console.WriteLine($"Resultado: {Math.Sqrt(numfrank)}");
                     else
                         Console.WriteLine(" no se puede calcular la raíz cuadrada de un número negativo.");
                     break;
                     case "6":
-                    Console.WriteLine($"Resultado: {Math.Pow(numfrank, numOrtiz)}");
+                    Console.WriteLine($"Resultado: {Math.Pow(num1, num2)}");
                     break;
                 default:
                     Console.WriteLine("Opción inválida.");
