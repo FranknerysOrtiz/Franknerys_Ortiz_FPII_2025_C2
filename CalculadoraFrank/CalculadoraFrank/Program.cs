@@ -5,7 +5,7 @@
         while (true)
         {
             Console.Clear();
-            Console.WriteLine("Calculaodora 2025-0073");
+            Console.WriteLine("Calculaodora");
             Console.WriteLine("1. Suma");
             Console.WriteLine("2. Resta");
             Console.WriteLine("3. Multi");
